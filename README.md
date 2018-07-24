@@ -1,0 +1,2 @@
+# Graphql-Server
+simpleGraphql Server
